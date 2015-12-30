@@ -1,13 +1,13 @@
 [
 {
-  "modid": "RWG",
-  "name": "Realistic World Gen",
-  "description": "Adds a new realistic worldtype",
+  "modid": "EWG",
+  "name": "Experimental World Gen",
+  "description": "Adds... idk..",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ted80"],
+  "authorList": ["KByte"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
